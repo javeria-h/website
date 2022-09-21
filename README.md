@@ -1,1 +1,4 @@
-# website
+
+                                                           30MFF: Website
+
+It is a website that features a short film, “Mr. Bear”. I was trying to create a simplistic website that revolved around the theme of the video hence, brown being the prominent color throughout. I watched various tutorials on the internet to incorporate all the elements that I wanted to be a part of the website, such as the image slider that features the team members. I tried to incorporate more interactive features but I think I still need to practice some more, for example I did make a responsive navigation bar in the beginning of website but then I couldn’t really link to each section of my website so I had to ditch the bar that I had put in a lot of hours to make and instead I went with a simple top bar, but I think it just added to the idea of my simplistic website. I am happy with how the image slider turned out to be because I struggled a bit with that but in the end it turned out to be the way that I wanted it to be. 
